@@ -1,7 +1,6 @@
 ---
-title: CSCI 320 Notes and Review Sheets
+title: CSCI 320 Notes and Review Sheets, Summer 2021
 author: Ben Rosenberg
-date: Summer 2021
 ---
 
 ### [Grade Calculator (Python)](320_grade_calculator.py)
